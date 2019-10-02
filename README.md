@@ -2,11 +2,5 @@
 
 # Access Text Analysis
 
-
-## Step 1
-
-- Download data `https://github.com/AccessLibCon/conference-data/tree/master/csv`
-- Fire up Jupyter
-
-
-## Step 2
+Everything is done in the notebook [file]("Access%20Talk%20Text%20Analysis.ipynb")
+Click through all of cells to see it in action
